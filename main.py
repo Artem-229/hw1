@@ -1,3 +1,4 @@
 a = int(input())
 b = int(input())
-print(a, b)
+res = a + b
+print(f"sum = {res}")
